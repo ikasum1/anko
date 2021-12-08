@@ -193,7 +193,7 @@ small{
 /***ボタン**********************************************/
 .button{
     -webkit-appearance: none;
-    margin: 0 2px;
+    margin: 10px 2px;
     min-width: 120px;
 	background-color: #000;
 	border: 2px solid #fff;
