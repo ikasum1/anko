@@ -37,10 +37,10 @@
 
 
   // スクロール
-  luxy.init({
+  /*luxy.init({
     wrapper: '#luxy',
     targets : '.luxy-el',
     wrapperSpeed:  1
-  });
+  });*/
 
 })(jQuery);
